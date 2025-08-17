@@ -399,7 +399,9 @@
             </div>
             <div id="searchMessage" class="search-message"></div>
         </div>
-        <div id="loadingSpinner" class="loading-spinner"><div></div></div>
+        <div id="loadingSpinner" class="loading-spinner">
+            <div></div>
+        </div>
         <div id="timeline-embed"></div>
         <div class="gallery-section">
             <div class="gallery-title">Featured Indian Artifacts Gallery</div>
@@ -547,14 +549,14 @@
         }
         // Scroll to top button logic
         const scrollBtn = document.getElementById('scrollTopBtn');
-        window.onscroll = function() {
+        window.onscroll = function () {
             if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
                 scrollBtn.classList.add('show');
             } else {
                 scrollBtn.classList.remove('show');
             }
         };
-        scrollBtn.onclick = function() {
+        scrollBtn.onclick = function () {
             window.scrollTo({ top: 0, behavior: 'smooth' });
         };
         showRandomFact();
