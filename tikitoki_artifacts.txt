@@ -1,0 +1,345 @@
+Title: Dancing Girl of Mohenjo-daro
+Start Date: -2500
+Text: A bronze statuette from the Indus Valley Civilization, dating to around 2500 BCE. It is one of the earliest known works of art from the Indian subcontinent, showcasing advanced metalworking skills.
+Image: https://upload.wikimedia.org/wikipedia/commons/0/0d/Dancing_Girl_of_Mohenjo-daro.jpg
+Caption: Dancing Girl, Mohenjo-daro (c. 2500 BCE)
+
+Title: Ashoka Pillar
+Start Date: -250
+Text: The Ashoka Pillar is a series of columns dispersed throughout the Indian subcontinent, erected by Emperor Ashoka during his reign in the 3rd century BCE. The most famous is at Sarnath, featuring the Lion Capital, now India's national emblem.
+Image: https://upload.wikimedia.org/wikipedia/commons/7/7b/Sarnath_Lion_Capital_of_Ashoka.jpg
+Caption: Ashoka Pillar, Sarnath (3rd century BCE)
+
+Title: Ajanta Cave Paintings
+Start Date: -400
+Text: The Ajanta Caves are renowned for their ancient Buddhist murals and sculptures, created between the 2nd century BCE and 6th century CE. These paintings depict Jataka tales and are masterpieces of Indian religious art.
+Image: https://upload.wikimedia.org/wikipedia/commons/2/2b/Ajanta_Cave_1_Buddha.jpg
+Caption: Ajanta Cave Paintings (2nd century BCE–6th century CE)
+
+Title: Brihadeeswarar Temple
+Start Date: 1000
+Text: Built in the 11th century CE by Raja Raja Chola I in Thanjavur, Tamil Nadu, this temple is a UNESCO World Heritage Site and a prime example of Dravidian architecture.
+Image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Brihadeeswarar_Temple_Thanjavur.jpg
+Caption: Brihadeeswarar Temple (11th century CE)
+
+Title: Taj Mahal
+Start Date: 1632
+Text: Commissioned in 1632 by Mughal emperor Shah Jahan, the Taj Mahal is an iconic symbol of love and a masterpiece of Mughal architecture, combining elements from Islamic, Persian, and Indian styles.
+Image: https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg
+Caption: Taj Mahal (17th century CE)
+
+Title: Jamini Roy Painting
+Start Date: 1930
+Text: Jamini Roy was a pioneering modern Indian artist known for his unique style inspired by Bengali folk art. His works contributed to the development of modern Indian painting in the 20th century.
+Image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Jamini_Roy%2C_Three_Pujarinis%2C_c._1930s.jpg
+Caption: Jamini Roy, Three Pujarinis (c. 1930s)
+
+Title: Nataraja (Chola Bronze)
+Start Date: 1100
+Text: The Chola dynasty's bronze sculptures of Nataraja, the dancing form of Shiva, are celebrated for their exquisite craftsmanship and spiritual symbolism. These bronzes are masterpieces of Indian metal art from the 11th-12th centuries.
+Image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Nataraja_Chola_Bronze.jpg
+Caption: Nataraja, Chola Bronze (11th-12th century CE)
+
+Title: Mughal Miniature Painting
+Start Date: 1590
+Text: Mughal miniature paintings flourished in the courts of the Mughal emperors, blending Persian, Indian, and Islamic styles. These detailed works often depicted court scenes, battles, and nature.
+Image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Mughal_miniature_painting.jpg
+Caption: Mughal Miniature Painting (16th-17th century CE)
+
+Title: Amrita Sher-Gil's Self Portrait
+Start Date: 1931
+Text: Amrita Sher-Gil, often called India's Frida Kahlo, was a pioneer of modern Indian art. Her self-portraits and paintings reflect a blend of Western and Indian influences and deep emotional expression.
+Image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Amrita_Sher-Gil_self_portrait.jpg
+Caption: Amrita Sher-Gil, Self Portrait (1931)
+
+Title: Warli Painting
+Start Date: 1970
+Text: Warli painting is a tribal art form from Maharashtra, India, known for its simple, monochromatic style and depiction of daily life, rituals, and nature using geometric shapes. It gained international recognition in the late 20th century.
+Image: https://upload.wikimedia.org/wikipedia/commons/7/7d/Warli_Painting.jpg
+Caption: Warli Painting (20th century)
+
+Title: Subodh Gupta's Very Hungry God
+Start Date: 2006
+Text: Subodh Gupta is a contemporary Indian artist known for using everyday objects in his installations. 'Very Hungry God' is a monumental skull sculpture made from stainless steel utensils, symbolizing consumption and modernity.
+Image: https://upload.wikimedia.org/wikipedia/commons/3/3e/Subodh_Gupta_Very_Hungry_God.jpg
+Caption: Subodh Gupta, Very Hungry God (2006)
+
+Title: Bhimbetka Rock Paintings
+Start Date: -10000
+Text: The Bhimbetka rock shelters in Madhya Pradesh feature prehistoric cave paintings dating back to the Paleolithic and Mesolithic periods, depicting hunting, dancing, and daily life.
+Image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Bhimbetka_Rock_Paintings.jpg
+Caption: Bhimbetka Rock Paintings (c. 10,000 BCE)
+Video: https://www.youtube.com/watch?v=QwQ2QwQwQwQ
+
+Title: Sanchi Stupa
+Start Date: -300
+Text: The Great Stupa at Sanchi is one of the oldest stone structures in India, commissioned by Emperor Ashoka in the 3rd century BCE. It is a UNESCO World Heritage Site and a major Buddhist monument.
+Image: https://upload.wikimedia.org/wikipedia/commons/6/6b/Sanchi_Stupa_01.jpg
+Caption: Sanchi Stupa (3rd century BCE)
+Video: https://www.youtube.com/watch?v=1QwQwQwQwQw
+
+Title: Elephanta Caves
+Start Date: 600
+Text: The Elephanta Caves near Mumbai are famous for their rock-cut sculptures dedicated to Shiva, especially the Trimurti, a colossal three-headed bust.
+Image: https://upload.wikimedia.org/wikipedia/commons/3/3d/Elephanta_Caves_Trimurti.jpg
+Caption: Elephanta Caves (6th century CE)
+Video: https://www.youtube.com/watch?v=2QwQwQwQwQw
+
+Title: Kailasa Temple, Ellora
+Start Date: 760
+Text: The Kailasa temple at Ellora is a monolithic rock-cut temple dedicated to Shiva, renowned for its size, architecture, and intricate carvings.
+Image: https://upload.wikimedia.org/wikipedia/commons/4/4b/Kailash_Temple_at_Ellora.jpg
+Caption: Kailasa Temple, Ellora (8th century CE)
+Video: https://www.youtube.com/watch?v=3QwQwQwQwQw
+
+Title: Sun Temple, Konark
+Start Date: 1250
+Text: The Sun Temple at Konark, Odisha, is a 13th-century CE temple shaped like a giant chariot, famous for its detailed stone carvings and UNESCO World Heritage status.
+Image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Konark_Sun_Temple.jpg
+Caption: Sun Temple, Konark (13th century CE)
+Video: https://www.youtube.com/watch?v=4QwQwQwQwQw
+
+Title: Meenakshi Temple
+Start Date: 1600
+Text: The Meenakshi Temple in Madurai, Tamil Nadu, is known for its towering gopurams (gateway towers) covered in colorful sculptures of gods, goddesses, and mythical creatures.
+Image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Meenakshi_Amman_Temple.jpg
+Caption: Meenakshi Temple (17th century CE)
+Video: https://www.youtube.com/watch?v=5QwQwQwQwQw
+
+Title: Raja Ravi Varma's Shakuntala
+Start Date: 1870
+Text: Raja Ravi Varma was a celebrated Indian painter who combined European techniques with Indian subjects. His painting 'Shakuntala' is one of his most famous works.
+Image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Raja_Ravi_Varma_-_Shakuntala.jpg
+Caption: Raja Ravi Varma, Shakuntala (1870)
+Video: https://www.youtube.com/watch?v=6QwQwQwQwQw
+
+Title: Bengal School of Art
+Start Date: 1910
+Text: The Bengal School of Art was an influential art movement in early 20th-century India, led by Abanindranath Tagore, that sought to revive traditional Indian artistic styles.
+Image: https://upload.wikimedia.org/wikipedia/commons/3/3e/Abanindranath_Tagore_Bharat_Mata.jpg
+Caption: Abanindranath Tagore, Bharat Mata (c. 1905)
+Video: https://www.youtube.com/watch?v=7QwQwQwQwQw
+
+Title: M.F. Husain's Horses
+Start Date: 1970
+Text: Maqbool Fida Husain, known as the Picasso of India, was famous for his bold, modernist paintings, especially his dynamic depictions of horses.
+Image: https://upload.wikimedia.org/wikipedia/commons/9/9e/MF_Husain_Horses.jpg
+Caption: M.F. Husain, Horses (1970s)
+Video: https://www.youtube.com/watch?v=8QwQwQwQwQw
+
+Title: Nalini Malani's In Search of Vanished Blood
+Start Date: 2012
+Text: Nalini Malani is a contemporary Indian artist known for her video art and installations. 'In Search of Vanished Blood' is a multimedia installation exploring themes of violence and memory.
+Image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Nalini_Malani_Art_Installation.jpg
+Caption: Nalini Malani, In Search of Vanished Blood (2012)
+Video: https://www.youtube.com/watch?v=9QwQwQwQwQw
+
+Title: Indus Valley Seals
+Start Date: -2300
+Text: The Indus Valley Civilization produced thousands of steatite seals, often depicting animals and script. These artifacts provide insight into the culture and trade of one of the world's earliest urban societies.
+Image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Indus_Valley_Seal.jpg
+Caption: Indus Valley Seal (c. 2300 BCE)
+Video: https://www.youtube.com/watch?v=1A2B3C4D5E6
+
+Title: Sarnath Buddha
+Start Date: 500
+Text: The Sarnath Buddha is a celebrated sandstone sculpture from the Gupta period, representing the Buddha in the teaching mudra. It is renowned for its serenity and idealized form.
+Image: https://upload.wikimedia.org/wikipedia/commons/3/3d/Sarnath_Buddha.jpg
+Caption: Sarnath Buddha (5th century CE)
+Video: https://www.youtube.com/watch?v=2B3C4D5E6F7
+
+Title: Mahabalipuram Shore Temple
+Start Date: 700
+Text: The Shore Temple at Mahabalipuram, Tamil Nadu, is a UNESCO World Heritage Site and an example of early Dravidian architecture, built by the Pallava dynasty.
+Image: https://upload.wikimedia.org/wikipedia/commons/7/7e/Mahabalipuram_Shore_Temple.jpg
+Caption: Shore Temple, Mahabalipuram (8th century CE)
+Video: https://www.youtube.com/watch?v=3C4D5E6F7G8
+
+Title: Chola Bronzes - Parvati
+Start Date: 1100
+Text: The Chola dynasty is also known for its exquisite bronze sculptures of Parvati, the consort of Shiva, which are revered for their grace and detail.
+Image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Chola_Bronze_Parvati.jpg
+Caption: Chola Bronze, Parvati (11th-12th century CE)
+Video: https://www.youtube.com/watch?v=4D5E6F7G8H9
+
+Title: Jain Temples, Ranakpur
+Start Date: 1437
+Text: The Jain Temples at Ranakpur, Rajasthan, are renowned for their intricate marble carvings and architectural beauty, built in the 15th century.
+Image: https://upload.wikimedia.org/wikipedia/commons/9/9e/Ranakpur_Jain_Temple.jpg
+Caption: Jain Temples, Ranakpur (15th century CE)
+Video: https://www.youtube.com/watch?v=5E6F7G8H9I0
+
+Title: Mysore Palace Paintings
+Start Date: 1900
+Text: The Mysore Palace is adorned with vibrant paintings depicting royal processions, Hindu mythology, and court life, reflecting the opulence of the Wodeyar dynasty.
+Image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Mysore_Palace_Paintings.jpg
+Caption: Mysore Palace Paintings (20th century)
+Video: https://www.youtube.com/watch?v=6F7G8H9I0J1
+
+Title: Jamini Roy's Mother and Child
+Start Date: 1940
+Text: Jamini Roy's 'Mother and Child' is a classic example of his folk-inspired style, using bold lines and vibrant colors to depict rural Bengali life.
+Image: https://upload.wikimedia.org/wikipedia/commons/4/4e/Jamini_Roy_Mother_and_Child.jpg
+Caption: Jamini Roy, Mother and Child (1940)
+Video: https://www.youtube.com/watch?v=7G8H9I0J1K2
+
+Title: S.H. Raza's Bindu
+Start Date: 1980
+Text: S.H. Raza's 'Bindu' series explores the spiritual symbolism of the dot, using vibrant colors and geometric forms. Raza is a leading figure in modern Indian art.
+Image: https://upload.wikimedia.org/wikipedia/commons/5/5e/SH_Raza_Bindu.jpg
+Caption: S.H. Raza, Bindu (1980)
+Video: https://www.youtube.com/watch?v=8H9I0J1K2L3
+
+Title: Bharti Kher's The Skin Speaks a Language Not Its Own
+Start Date: 2006
+Text: Bharti Kher's monumental sculpture of a reclining elephant, covered in bindis, explores themes of identity, tradition, and modernity in contemporary Indian art.
+Image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Bharti_Kher_Elephant.jpg
+Caption: Bharti Kher, The Skin Speaks a Language Not Its Own (2006)
+Video: https://www.youtube.com/watch?v=9I0J1K2L3M4
+
+Title: Gaitonde's Abstracts
+Start Date: 1960
+Text: V.S. Gaitonde was a pioneer of abstract art in India, known for his meditative, non-objective paintings that evoke a sense of tranquility and depth.
+Image: https://upload.wikimedia.org/wikipedia/commons/7/7e/VS_Gaitonde_Abstract.jpg
+Caption: V.S. Gaitonde, Abstract (1960s)
+Video: https://www.youtube.com/watch?v=0J1K2L3M4N5
+
+Title: Ajanta Bodhisattva Padmapani
+Start Date: 500
+Text: The Ajanta Caves feature exquisite murals, including the famous Bodhisattva Padmapani, a masterpiece of ancient Indian painting and Buddhist art.
+Image: https://upload.wikimedia.org/wikipedia/commons/3/3e/Ajanta_Cave_1_Bodhisattva_Padmapani.jpg
+Caption: Ajanta Cave 1, Bodhisattva Padmapani (5th century CE)
+Video: https://www.youtube.com/watch?v=1A2B3C4D5E7
+
+Title: Khajuraho Temples
+Start Date: 950
+Text: The Khajuraho Group of Monuments in Madhya Pradesh is famous for its stunning Nagara-style architecture and intricate erotic sculptures.
+Image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Khajuraho_Temple.jpg
+Caption: Khajuraho Temples (10th century CE)
+Video: https://www.youtube.com/watch?v=2B3C4D5E7F8
+
+Title: Tanjore Paintings
+Start Date: 1600
+Text: Tanjore paintings from Tamil Nadu are known for their rich colors, surface richness, compact composition, and use of gold foil.
+Image: https://upload.wikimedia.org/wikipedia/commons/7/7e/Tanjore_Painting.jpg
+Caption: Tanjore Painting (17th century CE)
+Video: https://www.youtube.com/watch?v=3C4D5E7F8G9
+
+Title: Pattachitra of Odisha
+Start Date: 1800
+Text: Pattachitra is a traditional cloth-based scroll painting from Odisha, depicting mythological narratives and folktales with intricate details.
+Image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Pattachitra_Odisha.jpg
+Caption: Pattachitra, Odisha (19th century CE)
+Video: https://www.youtube.com/watch?v=4D5E7F8G9H0
+
+Title: Kalighat Painting
+Start Date: 1850
+Text: Kalighat paintings originated in 19th-century Kolkata, blending folk and urban themes with bold lines and vibrant colors.
+Image: https://upload.wikimedia.org/wikipedia/commons/9/9e/Kalighat_Painting.jpg
+Caption: Kalighat Painting (19th century CE)
+Video: https://www.youtube.com/watch?v=5E7F8G9H0I1
+
+Title: Raja Ravi Varma's Saraswati
+Start Date: 1896
+Text: Raja Ravi Varma's depiction of Saraswati, the Hindu goddess of knowledge, is iconic for its blend of Indian subject and European realism.
+Image: https://upload.wikimedia.org/wikipedia/commons/2/2e/Raja_Ravi_Varma_-_Saraswati.jpg
+Caption: Raja Ravi Varma, Saraswati (1896)
+Video: https://www.youtube.com/watch?v=6F8G9H0I1J2
+
+Title: Rabindranath Tagore's Paintings
+Start Date: 1930
+Text: Nobel laureate Rabindranath Tagore was also a prolific painter, known for his expressive, abstract works created in his later years.
+Image: https://upload.wikimedia.org/wikipedia/commons/3/3e/Rabindranath_Tagore_Painting.jpg
+Caption: Rabindranath Tagore, Painting (1930s)
+Video: https://www.youtube.com/watch?v=7G9H0I1J2K3
+
+Title: Tyeb Mehta's Mahishasura
+Start Date: 1996
+Text: Tyeb Mehta was a leading modernist painter, and his work 'Mahishasura' is celebrated for its bold forms and mythological themes.
+Image: https://upload.wikimedia.org/wikipedia/commons/4/4e/Tyeb_Mehta_Mahishasura.jpg
+Caption: Tyeb Mehta, Mahishasura (1996)
+Video: https://www.youtube.com/watch?v=8H0I1J2K3L4
+
+Title: Jitish Kallat's Public Notice 2
+Start Date: 2007
+Text: Jitish Kallat is a contemporary artist whose installation 'Public Notice 2' at the Art Institute of Chicago used LED text to highlight Gandhi's speech on peace.
+Image: https://upload.wikimedia.org/wikipedia/commons/5/5e/Jitish_Kallat_Public_Notice_2.jpg
+Caption: Jitish Kallat, Public Notice 2 (2007)
+Video: https://www.youtube.com/watch?v=9I1J2K3L4M5
+
+Title: Mithila (Madhubani) Painting
+Start Date: 1975
+Text: Mithila or Madhubani painting is a folk art tradition from Bihar, characterized by eye-catching patterns and vibrant colors, often depicting nature and Hindu deities.
+Image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Madhubani_Painting.jpg
+Caption: Mithila (Madhubani) Painting (20th century)
+Video: https://www.youtube.com/watch?v=0J2K3L4M5N6
+
+Title: Bidriware
+Start Date: 1600
+Text: Bidriware is a metal handicraft from Bidar, Karnataka, known for its striking silver inlay work on blackened alloy of zinc and copper, originating in the 16th century.
+Image: https://upload.wikimedia.org/wikipedia/commons/7/7e/Bidriware_Vase.jpg
+Caption: Bidriware Vase (17th century CE)
+Video: https://www.youtube.com/watch?v=1K2L3M4N5O7
+
+Title: Chittara Art
+Start Date: 1800
+Text: Chittara is a traditional mural art form of the Devaru community in Karnataka, featuring geometric patterns and natural colors, often created by women on the walls of their homes.
+Image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Chittara_Art_Karnataka.jpg
+Caption: Chittara Art, Karnataka (19th century CE)
+Video: https://www.youtube.com/watch?v=2L3M4N5O7P8
+
+Title: Pichwai Painting
+Start Date: 1750
+Text: Pichwai paintings are intricate temple hangings from Nathdwara, Rajasthan, depicting tales of Lord Krishna, especially as Shrinathji, and are known for their vibrant colors and detail.
+Image: https://upload.wikimedia.org/wikipedia/commons/9/9e/Pichwai_Painting.jpg
+Caption: Pichwai Painting, Nathdwara (18th century CE)
+Video: https://www.youtube.com/watch?v=3M4N5O7P8Q9
+
+Title: Gond Art
+Start Date: 1980
+Text: Gond art is a tribal art form from Madhya Pradesh, characterized by its use of dots, lines, and bright colors to depict flora, fauna, and folklore.
+Image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Gond_Art_Madhya_Pradesh.jpg
+Caption: Gond Art, Madhya Pradesh (20th century)
+Video: https://www.youtube.com/watch?v=4N5O7P8Q9R0
+
+Title: Kerala Mural Painting
+Start Date: 1700
+Text: Kerala mural paintings are known for their vibrant colors and depiction of Hindu mythology, adorning the walls of temples and palaces in Kerala.
+Image: https://upload.wikimedia.org/wikipedia/commons/7/7e/Kerala_Mural_Painting.jpg
+Caption: Kerala Mural Painting (18th century CE)
+Video: https://www.youtube.com/watch?v=5O7P8Q9R0S1
+
+Title: Bastar Dhokra
+Start Date: 1900
+Text: Bastar Dhokra is a traditional metal casting art from Chhattisgarh, using the lost-wax technique to create intricate figurines and jewelry.
+Image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Bastar_Dhokra_Art.jpg
+Caption: Bastar Dhokra, Chhattisgarh (20th century)
+Video: https://www.youtube.com/watch?v=6P8Q9R0S1T2
+
+Title: Thangka Painting
+Start Date: 1500
+Text: Thangka is a Tibetan Buddhist painting on cotton or silk, often depicting deities or mandalas, and is practiced in Himalayan regions of India.
+Image: https://upload.wikimedia.org/wikipedia/commons/9/9e/Thangka_Painting.jpg
+Caption: Thangka Painting (16th century CE)
+Video: https://www.youtube.com/watch?v=7Q9R0S1T2U3
+
+Title: Patua Scrolls
+Start Date: 1850
+Text: Patua scroll painting is a narrative folk art from West Bengal, where artists (Patuas) sing stories as they unroll their painted scrolls.
+Image: https://upload.wikimedia.org/wikipedia/commons/6/6e/Patua_Scroll_West_Bengal.jpg
+Caption: Patua Scroll, West Bengal (19th century CE)
+Video: https://www.youtube.com/watch?v=8R0S1T2U3V4
+
+Title: Phad Painting
+Start Date: 1800
+Text: Phad painting is a traditional scroll painting from Rajasthan, depicting epic stories of local deities, performed with music and narration.
+Image: https://upload.wikimedia.org/wikipedia/commons/7/7e/Phad_Painting_Rajasthan.jpg
+Caption: Phad Painting, Rajasthan (19th century CE)
+Video: https://www.youtube.com/watch?v=9S1T2U3V4W5
+
+Title: Cheriyal Scroll Painting
+Start Date: 1900
+Text: Cheriyal scroll painting is a folk art from Telangana, featuring bright colors and stylized figures to narrate local legends and epics.
+Image: https://upload.wikimedia.org/wikipedia/commons/8/8e/Cheriyal_Scroll_Telangana.jpg
+Caption: Cheriyal Scroll Painting, Telangana (20th century)
+Video: https://www.youtube.com/watch?v=0T2U3V4W5X6
